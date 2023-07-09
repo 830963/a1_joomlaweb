@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.9" type="template" client="site">
+   <name>Rento Template 2</name>
+   <creationDate>July 8, 2023</creationDate>
+   <author>Your Name</author>
+   <authorEmail>your@email.com</authorEmail>
+   <authorUrl>http://www.yourwebsite.com</authorUrl>
+   <version>1.0</version>
+   <description>A custom template for Rento website</description>
+   <files>
+      <filename>index.php</filename>
+   </files>
+</extension>
